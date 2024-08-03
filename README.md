@@ -1,1 +1,1 @@
-Amazon Clone Website 
+Amazon Clone Website using only Html and Css
